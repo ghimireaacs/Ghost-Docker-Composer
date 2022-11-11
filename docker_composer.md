@@ -25,4 +25,4 @@ services:
     image: mysql:8.0
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: example```
+      MYSQL_ROOT_PASSWORD: example
